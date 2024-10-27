@@ -7,5 +7,7 @@
  * @returns {Boolean}
  */
 export const isSpam = (text, keywords) => {
-    // ваш код здесь
+    const sanitizedText = text.replace(/[.,\/#!$%^&*;:{}=\-_`~()]/g, '').toLowerCase();
+
+    return keywords.some(keyword => sanitizedText.includes(keyword.toLowerCase()));
 };

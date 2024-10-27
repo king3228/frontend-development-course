@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e639a2c-35ff-4e80-88ab-286b3e63bfe5" name="Changes" comment="task 6 complete" />
+    <list default="true" id="5e639a2c-35ff-4e80-88ab-286b3e63bfe5" name="Changes" comment="task 6 fix, 7 complete">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/task8-case-converter/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/task8-case-converter/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +78,7 @@
       <updated>1730029424894</updated>
       <workItem from="1730029425923" duration="3075000" />
       <workItem from="1730032516380" duration="134000" />
-      <workItem from="1730032843413" duration="2762000" />
+      <workItem from="1730032843413" duration="3504000" />
     </task>
     <task id="LOCAL-00001" summary="task 1 complete">
       <option name="closed" value="true" />
@@ -117,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730035555370</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="task 6 fix, 7 complete">
+      <option name="closed" value="true" />
+      <created>1730035934725</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730035934725</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +163,7 @@
     <MESSAGE value="task 2-3 complete" />
     <MESSAGE value="task 4-5 complete" />
     <MESSAGE value="task 6 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 6 complete" />
+    <MESSAGE value="task 6 fix, 7 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 6 fix, 7 complete" />
   </component>
 </project>
