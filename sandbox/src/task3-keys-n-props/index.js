@@ -8,13 +8,11 @@ export const solutionFn = (obj) => {
     const typeCount = {};
 
     for (let key in obj) {
-        if (obj.hasOwnProperty(key)) {
-            const type = typeof obj[key];
-            if (typeCount[type]) {
-                typeCount[type]++;
-            } else {
-                typeCount[type] = 1;
-            }
+        const type = typeof obj[key];
+        if (typeCount[type]) {
+            typeCount[type]++;
+        } else {
+            typeCount[type] = 1;
         }
     }
 
