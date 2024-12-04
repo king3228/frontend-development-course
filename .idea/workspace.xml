@@ -4,13 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e639a2c-35ff-4e80-88ab-286b3e63bfe5" name="Changes" comment="task 8-9 complete">
+    <list default="true" id="5e639a2c-35ff-4e80-88ab-286b3e63bfe5" name="Changes" comment="task 10 complete">
+      <change afterPath="$PROJECT_DIR$/task 4 API/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task 4 API/index_f.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task 4 API/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task 4 API/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task 4 API/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="tsconfig.json" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Merge.Settings">
     <option name="BRANCH" value="task3-test" />
@@ -45,9 +60,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.test.html.executor": "Run",
     "Jest.index.test.js.executor": "Run",
+    "Node.js.main.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/petrmirosin/WebstormProjects/frontend-development-course",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,6 +81,21 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/frontend-development-course/task 4 API backup/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,7 +113,9 @@
       <updated>1730029424894</updated>
       <workItem from="1730029425923" duration="3075000" />
       <workItem from="1730032516380" duration="134000" />
-      <workItem from="1730032843413" duration="4220000" />
+      <workItem from="1730032843413" duration="4773000" />
+      <workItem from="1730194947587" duration="64000" />
+      <workItem from="1733322852965" duration="6437000" />
     </task>
     <task id="LOCAL-00001" summary="task 1 complete">
       <option name="closed" value="true" />
@@ -135,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730036577225</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="task 10 complete">
+      <option name="closed" value="true" />
+      <created>1730037268766</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730037268766</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +218,7 @@
     <MESSAGE value="task 6 complete" />
     <MESSAGE value="task 6 fix, 7 complete" />
     <MESSAGE value="task 8-9 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 8-9 complete" />
+    <MESSAGE value="task 10 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 10 complete" />
   </component>
 </project>
